@@ -35,9 +35,7 @@ Realize o download das seguintes ferramentas e arquivos essenciais:
 ### Passo 1: Instalação Inicial dos Softwares
 
 1.  Instale o **Visual Studio Code** e o **Balena Etcher** em seu computador.
-2.  Caso tenha dificuldade ou não se sinta confiante, **assista ao tutorial completo** que gravamos:
-    * [Tutorial de Instalação dos Softwares Necessários](https://) 👈 ***(ATUALIZE ESTE LINK DO VÍDEO TUTORIAL)***
-
+   
 ### Passo 2: Gravação da Imagem no Micro SD
 
 1.  **Extraia o arquivo zip** do firmware que foi baixado. Você terá um arquivo com a extensão `.iso`.
@@ -88,7 +86,3 @@ Este projeto está licenciado sob a Licença MIT.
 Agradecemos a todos os participantes do projeto e a todos aqueles que foram beneficiados de alguma forma com os trabalhos que desenvolvemos.
 
 ---
-
-**Lembre-se de substituir a URL do Tutorial de Instalação no [Passo 1](#passo-1-instala%C3%A7%C3%A3o-inicial-dos-softwares) pelo link correto do YouTube!**
-
-**Gostaria que eu criasse um modelo de código MicroPython de exemplo (como um "Hello World" ou um código simples de motor) para adicionar ao final deste README?**
